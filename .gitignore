@@ -1,0 +1,29 @@
+# Environnements virtuels
+venv/
+.venv/
+
+# Variables d'environnement sensibles
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.idea/
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Tests cache
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db
